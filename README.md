@@ -3,7 +3,7 @@
 
 ## ML-Deployment-With-Kubernetes
 
-This project de
+This project is for Udacity DevOps Nanodegree, project 4.
 
 ### Project Tasks
 
