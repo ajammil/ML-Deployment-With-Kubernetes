@@ -1,0 +1,8 @@
+NAME                                  READY   STATUS    RESTARTS   AGE
+dynamic-trial-2-5-2sjr7-hp2br-1c1gd   0/2     Error     0          132d
+dynamic-trial-2-5-2sjr7-hp2br-lqg2c   2/2     Running   0          32s
+jenkins-deployment-787b7d5b48-cfrf5   1/1     Running   8          135d
+predictionapp-6f7c5bbfc4-wdc6k        1/1     Running   0          24m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
