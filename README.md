@@ -1,6 +1,5 @@
 
-[![ajammil](https://circleci.com/gh/ajammil/ML-Deployment-With-Kubernetes
-.svg?style=svg)](https://app.circleci.com/pipelines/github/ajammil/ML-Deployment-With-Kubernetes)
+[![ajammil](https://circleci.com/gh/ajammil/ML-Deployment-With-Kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/ajammil/ML-Deployment-With-Kubernetes)
 
 ## ML-Deployment-With-Kubernetes
 
